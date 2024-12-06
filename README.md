@@ -1,4 +1,11 @@
-# 🌠 Hamza Al-Tal | Web Development Architect
+<!-- Animated GitHub Stats -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzatal&theme=radical&no-frame=true&row=1&column=6" alt="Achievement Trophies"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzatal&theme=radical" alt="Profile Summary"/>
+</div>
 
 <!-- Hyper-Animated Typing Introduction -->
 <div align="center">
@@ -17,14 +24,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress&perline=5" alt="Tech Skill Constellation"/>
 </div>
 
-<!-- Animated GitHub Stats -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzatal&theme=radical&no-frame=true&row=1&column=6" alt="Achievement Trophies"/>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzatal&theme=radical" alt="Profile Summary"/>
-</div>
 
 <!-- Dynamic Contribution Snake -->
 <picture>
