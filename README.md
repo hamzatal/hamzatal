@@ -1,65 +1,53 @@
-# 👋 Hamza Al-Tal | Full Stack Web Developer
-
+# 👋 Hamza Al-Tal |FULL STACK Web Developer
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00F7F7&center=true&width=900&lines=🚀+Full+Stack+Web+Developer;🔧+Transforming+Ideas+into+Digital+Solutions;💻+PHP+%7C+Laravel+%7C+JavaScript+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=800&lines=🚀+Passionate+Web+Developer;🔧+PHP+%7C+Laravel+%7C+JavaScript+Specialist;✨+Clean+Code+Enthusiast+%26+Tech+Innovator" alt="Typing SVG" />
 </div>
-
-## 🌟 Professional Overview
-
-<img align="right" width="350" src="https://camo.githubusercontent.com/61491d59e6e4c4d50ccd715624ce1dd161029076084d3biform.io/assets/images/giphy.webp" alt="Coding Animation"/>
-
-### 💼 About Me
-Dedicated Full Stack Developer crafting innovative web solutions with a passion for clean, efficient code. Specializing in creating responsive, user-centric applications that solve real-world challenges.
-
-## 🛠 Tech Arsenal
-
+## 🌟 About Me
+🚀 Dedicated and results-driven web developer passionate about creating scalable, efficient, and user-friendly applications. Specializing in PHP, Laravel, and JavaScript with extensive back-end and front-end expertise.
+## 🔧 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,js,html,css,mysql,flutter,git,docker,nodejs,webpack&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress,react,tailwind,docker&perline=7" alt="Tech Stack" />
 </div>
-
-## 📊 GitHub Analytics
-
+## 💻 Development Breakdown
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzatal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatal&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzatal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-## 🚀 Professional Capabilities
-
-### 💻 Technical Skills
-- **Languages:** PHP, JavaScript, HTML5, CSS3
-- **Frameworks:** Laravel, React, Bootstrap
-- **Database:** MySQL
-- **Tools:** Git, Docker, VS Code
-
-### 🌱 Continuous Learning
-- 🔬 Exploring microservices architecture
-- 🤖 Advancing DevOps skills
-- 🧠 AI/ML integration in web development
-
-## 🔗 Professional Connections
-
+## 🌱 Learning & Growth
+- 🌐 Continuously exploring modern web development trends and emerging technologies
+- 🔬 Deep diving into microservices, serverless architectures, and cloud computing
+- 🤖 Advancing skills in DevOps, CI/CD, and automation strategies
+- 🧠 Exploring AI/ML integration in web development
+- 🔒 Enhancing cybersecurity knowledge and best practices
+## 🚀 Tech Highlights
+⦿ Backend: PHP, Laravel, Node.js, REST APIs
+⦿ Frontend: HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
+⦿ Mobile: Flutter, Responsive Design
+⦿ Database: MySQL, PostgreSQL, MongoDB
+⦿ DevOps: Docker, Git, GitHub Actions, CI/CD
+⦿ Tools: Composer, npm, Webpack, Postman
+## 🔗 Connect With Me
 <div align="center">
-  <a href="mailto:hamza.t.a.altal@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-tal/">
+  <a href="https://linkedin.com/in/hamza-tal/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/hamzatal">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://discord.gg/#1899" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
-
-## 🏆 GitHub Achievements
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzatal&theme=radical)
-
-### 📈 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=hamzatal&icon=5&color=6)
-
+## 📊 GitHub Insights
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzatal&theme=tokyonight)
+### ✍️ Inspirational Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🔝 Top Contributed Repositories
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hamzatal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 💰 Support My Work
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/HamzaTalJo)
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave"/>
+  <img src="https://visitcount.itsvg.in/api?id=hamzatal&icon=5&color=6" alt="Visitor Count"/>
+  <br>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
 </div>
