@@ -1,12 +1,10 @@
-# 👋 Hamza Al-Tal | Web Developer
+# 👋 Hamza Al-Tal | FULL STACK Web Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=800&lines=🚀+Passionate+Web+Developer;🔧+PHP+%7C+Laravel+%7C+JavaScript+Specialist;✨+Clean+Code+Enthusiast+%26+Tech+Innovator" alt="Typing SVG" />
 </div>
 
 ## 🌟 About Me
-
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e6e4c4d50ccd715624ce1dd161029076084d3biform.io/assets/images/giphy.webp" />
 
 🚀 Dedicated and results-driven web developer passionate about creating scalable, efficient, and user-friendly applications. Specializing in PHP, Laravel, and JavaScript with extensive back-end and front-end expertise.
 
@@ -36,8 +34,8 @@
 ⦿ **Backend:** PHP, Laravel, Node.js, REST APIs
 ⦿ **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
 ⦿ **Mobile:** Flutter, Responsive Design
-⦿ **Database:** MySQL, PostgreSQL, MongoDB
-⦿ **DevOps:** Docker, Git, GitHub Actions, CI/CD
+⦿ **Database:** MySQL,
+⦿ **DevOps:** Git, GitHub Actions, CI/CD
 ⦿ **Tools:** Composer, npm, Webpack, Postman
 
 ## 🔗 Connect With Me
