@@ -1,4 +1,4 @@
-# 👋 Hamza Al-Tal | Web Developer
+# 👋 Hamza Al-Tal |FULL STACK Web Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=800&lines=🚀+Passionate+Web+Developer;🔧+PHP+%7C+Laravel+%7C+JavaScript+Specialist;✨+Clean+Code+Enthusiast+%26+Tech+Innovator" alt="Typing SVG" />
