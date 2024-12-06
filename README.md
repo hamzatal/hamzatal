@@ -1,37 +1,41 @@
 # 👋 Hamza Al-Tal | Web Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzatal&color=blueviolet)
-
-## 🚀 About Me
-
-I'm a passionate web developer specializing in creating scalable, efficient, and user-friendly applications. My expertise spans PHP, Laravel, and JavaScript, with a strong focus on writing clean, maintainable code.
-
-## 💻 Tech Arsenal
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress&perline=5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=600&lines=Passionate+Web+Developer;PHP+%7C+Laravel+%7C+JavaScript+Specialist;Clean+Code+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🔥 Current Stats
+## 🌟 About Me
+
+🚀 Dedicated and results-driven web developer passionate about creating scalable, efficient, and user-friendly applications. Specializing in PHP, Laravel, and JavaScript with extensive back-end and front-end expertise.
+
+## 🔧 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress&perline=5" alt="Tech Stack" />
+</div>
+
+## 💻 Development Breakdown
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzatal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatal&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🔗 Coding Streak
+## 🌱 Learning & Growth
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzatal&theme=radical" alt="Hamza's Streak" />
-</div>
+- 🌐 Continuously exploring modern web development trends
+- 🔬 Diving deep into APIs and cloud computing
+- 🤖 Improving skills in DevOps and automation
 
-## 🌱 Currently Exploring
+## 🚀 Tech Highlights
 
-- 🌐 Modern Web Development Trends
-- ☁️ Cloud Computing Architectures
-- 🤖 DevOps and Automation Techniques
+⦿ **Backend:** PHP, Laravel
+⦿ **Frontend:** HTML, CSS, JavaScript, Blade
+⦿ **Mobile:** Basic Flutter knowledge
+⦿ **Database:** MySQL
+⦿ **Tools:** Git, Composer, WAMP
 
-## 🤝 Let's Connect!
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/hamza-tal/">
@@ -42,9 +46,17 @@ I'm a passionate web developer specializing in creating scalable, efficient, and
   </a>
 </div>
 
-## 💡 Random Developer Quote
+## 📊 GitHub Insights
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzatal&theme=radical)
+
+### ✍️ Inspirational Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repositories
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=hamzatal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 💰 Support My Work
 
@@ -53,5 +65,7 @@ I'm a passionate web developer specializing in creating scalable, efficient, and
 ---
 
 <div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hamzatal&icon=2&color=9" alt="Visitor Count"/>
+  <br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
 </div>
