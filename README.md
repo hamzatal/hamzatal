@@ -68,7 +68,6 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hamzatal&icon=5&color=6" alt="Visitor Count"/>
   <br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
   <br>
