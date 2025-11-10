@@ -11,7 +11,7 @@
 ## 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress,react,tailwind,docker&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress,react,tailwind&perline=7" alt="Tech Stack" />
 </div>
 
 ## 💻 Development Breakdown
